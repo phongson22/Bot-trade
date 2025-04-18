@@ -4,3 +4,5 @@ pandas
 requests
 ta
 python-binance
+matplotlib
+mplfinance
