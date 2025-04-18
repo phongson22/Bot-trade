@@ -126,3 +126,5 @@ if __name__ == "__main__":
     send_telegram("✅ Tín hiệu TEST: Bot đã hoạt động và sẵn sàng chiến đấu!")
     threading.Thread(target=run_bot).start()
     run_telegram()
+if __name__ == "__main__":
+    run_main()  # hoặc tên hàm chính đang dùng
